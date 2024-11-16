@@ -39,6 +39,7 @@ This project implements a **hardware + software-based system** for counting and 
 ## Links
 - **Project Application**: [Object Detection - Roboflow Train](https://detectt.streamlit.app/Object_Detection_-_Roboflow_Train)
 - **Demo Video**: [Watch Demo](https://drive.google.com/file/d/10_r8WeCkhuQGYsUWLiXSg9h2CJZgIn7P/view?usp=drive_link)
+- **Gerbera Dataset Link (Kaggle)**: [Gerbera Dataset](https://www.kaggle.com/datasets/rujulmodi/gerbera-flower-dataset)
 
 ## Installation and Setup
 1. Clone the repository:
